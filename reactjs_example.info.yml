@@ -1,0 +1,5 @@
+name: reactjs_example
+type: module
+description: Reactjs Example
+core: 8.x
+package: Custom

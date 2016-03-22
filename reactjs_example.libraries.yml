@@ -1,0 +1,11 @@
+recent.comments:
+  version: VERSION
+  js:
+    js/recent-comments.js: {}
+  dependencies:
+    - reactjs_example/reactjs
+
+reactjs:
+  version: VERSION
+  js:
+    js/react.min.js: {}
